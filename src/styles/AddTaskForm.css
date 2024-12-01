@@ -1,0 +1,36 @@
+.add-task-form {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .add-task-form h3 {
+    margin: 0 0 10px;
+  }
+  
+  .add-task-form input,
+  .add-task-form textarea,
+  .add-task-form select {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .add-task-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-task-form button:hover {
+    background-color: #0056b3;
+  }
+  

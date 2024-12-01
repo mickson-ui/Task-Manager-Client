@@ -1,0 +1,20 @@
+
+.column {
+    background: #f4f4f4;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    flex: 1;
+  }
+  
+  .column h2 {
+    margin-bottom: 10px;
+  }
+  
+  .tasks {
+    min-height: 100px;
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

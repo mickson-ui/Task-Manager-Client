@@ -1,0 +1,32 @@
+
+.task-card {
+    background: white;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: grab;
+  }
+  
+  .priority {
+    display: block;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  .priority.low {
+    background-color: #e0f7fa;
+    color: #00796b;
+  }
+  
+  .priority.medium {
+    background-color: #fff8e1;
+    color: #f57f17;
+  }
+  
+  .priority.high {
+    background-color: #ffebee;
+    color: #c62828;
+  }
+  
